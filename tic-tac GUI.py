@@ -1,4 +1,4 @@
-from tkinter import * #import
+from tkinter import * 
 import numpy as np
 
 size_of_board = 600
